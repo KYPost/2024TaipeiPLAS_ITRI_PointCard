@@ -1,6 +1,6 @@
 2024 台北國際塑橡膠工業展 工研院 電子集章  
 
-活動網域 => http://itri-stamp-taipeiplas.com/
+活動網域 => http://itri-stamp-taipeiplas.com/  
 GitHub原始網域 => https://kypost.github.io/2024TaipeiPLAS_ITRI_PointCard/
 
 QR Code  
